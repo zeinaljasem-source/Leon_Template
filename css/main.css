@@ -209,7 +209,7 @@ header .links ul li:not(:last-child) a {
 }
 
 .landing {
-    background-image: url(../Images/274719646015463431.jpeg);
+    background-image: url(../images/274719646015463431.jpeg);
     background-size: cover;
     height: calc(100vh - 60px);
     display: flex;
